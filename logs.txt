@@ -1,0 +1,74 @@
+Change log
+
+//Made by:\\
+//TheSavageTaco#6609\\
+//Contact on Discord for any questions or problem\\
+
+
+
+v1
+Base version
+custom commands, no mute, no ban, no kick, just fun and custom reply's
+pretty shit Honestly, just a test run
+
+
+v2
+Complete overhaul
+
+Changed entire filesys
+built for Paradise server
+Added:
+
+Kick
+Ban
+Professional looking logs
+reload
+unban
+help
+warn
+
+Just more clean and stable
+
+Problems:
+Timed mute is still broken
+Welcome message kinda works
+Non-Mod user trying to use ``mute`` command breaks it
+need to make warn log file!
+
+
+v2.1.0
+Minor changes
+
+Added:
+
+Custom reply's and commands back
+Worked on mute, complete overwrite
+fixed welcome, works when the bot is on
+
+Problems:
+Mute still broken, need to rewrite
+
+v2.2.0
+Major overhaul for new server
+
+
+Changes made:
+made slight adjustments to the mute command.
+Need to look into ``params`` command, dont know i if i need a depend thing for it
+changed loading screen slightly. made minor adjustments
+added auto delete of links
+fixed when someone joins, bot crashes
+added warn fu nctions
+got all id's for lolita's server
+
+v2.5.0
+ToDo List:
+add random facts/trivia?
+gonna have to build a database at one point
+add more 'fun' commands
+
+v2.8.0
+Changes:
+Fixed alot, bot is now 100% stable
+Haven't messed with mute but removed a loopback error that made the bot crash every time a role was changed
+now have 3 bots in 4 servers, magik
